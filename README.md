@@ -51,3 +51,9 @@ It allows users to upload, download, list, and delete files, with **AES encrypti
 
 ---
 
+##  Screenshots
+
+<p align="center">
+  <img src="./screen.png" width="250"/>
+</p>
+
