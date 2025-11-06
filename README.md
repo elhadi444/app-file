@@ -7,7 +7,7 @@ It allows users to upload, download, list, and delete files, with **AES encrypti
 
 ## Features
 
-### 🖥️ Server (Node.js + Express)
+### Server (Node.js + Express)
 - **Upload files** (`POST /upload`) — files are received and stored locally.
 - **Download files** (`GET /download/:filename`) — encrypted files can be retrieved.
 - **Delete files** (`DELETE /delete/:filename`) — remove specific files from the server.
